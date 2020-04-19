@@ -1,0 +1,11 @@
+{
+  "FROM_EMAIL": "ziyucrc@gmail.com",
+  "TO_EMAIL": "1208484996@qq.com",
+  "HOST": "smtp.mailtrap.io",
+  "PORT": "2525",
+  "SERVICE":"gmail",
+  "AUTH": {
+    "USERNAME": "0660ace05e5f2c",
+    "PASSWORD": "f4f96e846ba575"
+  }
+}
